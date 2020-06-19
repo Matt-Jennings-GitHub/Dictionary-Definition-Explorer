@@ -1,0 +1,2 @@
+# Dictionary-Definition-Explorer
+A program to quantify the linguistic complexity of words from their dictionary definitions, by sequentially learning all child words within the definition, and the words within those definitions, until the parent word is understood.  Definitions are web scraped from WordNet and the learning rates for various words are graphed over the iterations - displaying surprising results!
